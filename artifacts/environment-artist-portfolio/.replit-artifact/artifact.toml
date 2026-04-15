@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "3D Environment Artist Portfolio"
+version = "1.0.0"
+id = "artifacts/environment-artist-portfolio"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18421
+
+[services.development]
+run = "pnpm --filter @workspace/environment-artist-portfolio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/environment-artist-portfolio", "run", "build" ]
+publicDir = "artifacts/environment-artist-portfolio/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18421"
+BASE_PATH = "/"

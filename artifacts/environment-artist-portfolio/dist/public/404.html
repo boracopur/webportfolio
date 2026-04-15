@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="utf-8" />
+    <title>Bora Copur – 3D Environment Artist</title>
+    <script>
+      // GitHub Pages SPA redirect trick.
+      // Saves the full path + query to sessionStorage then redirects to base.
+      var base = '/work/';
+      var path = window.location.pathname;
+      var sub = path.startsWith(base) ? path.slice(base.length) : path.slice(1);
+      var query = window.location.search;
+      var hash = window.location.hash;
+      sessionStorage.setItem('spa-redirect', sub + query + hash);
+      window.location.replace(base);
+    </script>
+  </head>
+  <body></body>
+</html>

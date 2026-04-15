@@ -1,0 +1,66 @@
+Background direction pass
+
+I want to refine the background without redesigning the site and without losing the current premium dark identity.
+
+Current feeling:
+The grid pattern works as a technical structure, but the background still reads a bit too much like a graphic surface. I want it to feel deeper, more atmospheric, and more spatial — like it belongs to an environment artist portfolio, not just a clean UI system.
+
+Main direction:
+Keep the grid as a base layer, but transform the background from a flat design backdrop into a cinematic spatial atmosphere.
+
+What I want:
+
+* preserve the dark, premium, controlled mood
+* keep the grid, but push it further into the background
+* make the background feel more alive through depth, tonal variation, and atmospheric layering
+* add a subtle sense of space / volume / invisible architecture behind the content
+* make the darkness feel like a real environment, not just a black surface
+
+Visual approach:
+
+* use the grid as the structural layer
+* add very subtle large-scale tonal gradients or atmospheric haze above or behind it
+* think in terms of cinematic depth, soft shadow masses, and spatial atmosphere
+* allow the background to have slightly different density or tonal presence across the page
+* make it feel like soft light and shadow are shaping the space very faintly
+
+Important:
+Do NOT add obvious visual objects.
+Do NOT add decorative blobs.
+Do NOT add flashy particles.
+Do NOT add strong cyberpunk effects.
+Do NOT add colorful gradient washes.
+Do NOT make it look like a modern startup landing page.
+
+Avoid:
+
+* obvious motion-heavy background elements
+* aurora-like effects
+* visible floating particles
+* excessive noise texture
+* bright accent glows
+* anything that competes with the portfolio work
+
+Desired feeling:
+
+* dark but not flat
+* structured but not sterile
+* atmospheric but not decorative
+* cinematic but restrained
+* spatial, not graphic
+* alive, but quiet
+
+Best direction to explore:
+A layered background with:
+
+1. a very dark charcoal/near-black base
+2. a subtle faded grid pattern
+3. a soft atmospheric haze / tonal veil
+4. very faint large shadow planes or architectural light falloff
+5. optional minimal filmic texture only if it remains almost invisible
+
+The result should feel like the site exists inside a dark cinematic volume, not on top of a flat black page.
+
+Do not redesign the page sections.
+Do not change the site’s identity.
+This is a background atmosphere pass only.

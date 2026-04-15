@@ -1,0 +1,70 @@
+Add more dynamism to the website, but keep it subtle, premium, and restrained.
+
+Important:
+Do NOT turn this into a flashy Persona-style UI, playful motion design piece, or gimmicky animated landing page.
+The motion should feel cinematic, technical, atmospheric, and controlled — like the interface has quiet life in it.
+
+Motion direction:
+- subtle, intentional, refined
+- sharp and smooth, not bouncy
+- responsive but never loud
+- slightly futuristic / technical
+- elegant and confident, not playful
+
+Add restrained motion in these ways:
+
+1. Hero entrance
+- Use a clean staged reveal for the hero content
+- headline, subtext, and CTA can enter with slight delay differences
+- use fade + slight translate
+- no bounce, no overshoot, no exaggerated scale
+- keep the entrance smooth and confident
+
+2. Scroll-based atmosphere
+- Add very subtle scroll response to the hero/background
+- slight parallax or depth shift is okay
+- the grid/background can move or fade very slightly with scroll
+- keep it almost unnoticeable
+- avoid obvious “parallax showcase” behavior
+
+3. Section reveals
+- As sections enter viewport, reveal them with restrained motion
+- use soft fade, slight upward or lateral movement
+- stagger children very lightly where appropriate
+- keep durations short and polished
+- avoid dramatic slide-ins
+
+4. Project card interaction
+- Add subtle hover response to featured work and project cards
+- slight image shift, slight scale, or controlled overlay transition is fine
+- keep hover premium and sharp
+- no aggressive zoom, no flashy glow, no game-menu effects
+
+5. Button interaction
+- Buttons should feel alive and responsive
+- use subtle hover transitions, color shifts, border transitions, or tiny movement
+- keep them crisp and high-end
+- avoid chunky, playful, or exaggerated hover effects
+
+6. Divider / line behavior
+- If lines or separators exist, allow some of them to reveal on scroll or animate in quietly
+- motion should feel architectural and technical
+- no unnecessary decorative animation loops
+
+7. Footer / final section
+- Give the closing section a calm reveal
+- make it feel intentional and complete
+- avoid turning it into a second flashy animated hero
+
+Motion rules:
+- no bouncing
+- no springy cartoon feel
+- no stickman, mascots, or playful objects
+- no overuse of glow effects
+- no excessive looping animations
+- no constant movement that distracts from the artwork
+- no heavy Persona-inspired UI gimmicks
+
+Overall goal:
+The site should feel more alive, more polished, and more cinematic through motion — but still serious, portfolio-first, and environment-artist-focused.
+Motion should support the atmosphere, not become the main feature.

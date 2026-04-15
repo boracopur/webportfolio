@@ -1,0 +1,81 @@
+Do a dedicated mobile responsiveness pass for the portfolio.
+
+Current issue:
+On mobile, not everything fits properly on screen. I want the site to feel fully intentional and polished on smaller screens, not like a desktop layout that was simply scaled down.
+
+Priority:
+Recruiters may view this on mobile, so mobile UX matters a lot.
+
+Goals:
+
+* no horizontal overflow anywhere
+* no cropped or cut-off text
+* no oversized hero that hides key information
+* no broken spacing
+* no awkward wrapping in the rotating word line
+* no CTA/buttons falling into bad alignment
+* no footer email dominating the screen
+
+Please refine the mobile experience section by section.
+
+1. Hero
+
+* reduce the scale of the main name on small screens
+* keep the hierarchy strong, but make it fit naturally within the viewport
+* tighten line breaks and spacing for:
+
+  * BORA COPUR
+  * 3D ENVIRONMENT ARTIST
+  * BUILDING + rotating word
+* make sure the rotating word line never causes horizontal overflow
+* preserve the identity feel, but avoid billboard-scale text on phones
+* reduce hero vertical height if needed so important content appears earlier
+
+2. Rotating word line
+
+* ensure the animated word area is mobile-safe
+* no clipping, no overflow, no layout jump
+* if a desktop min-width is too wide, use a smaller mobile-specific value
+* keep the effect intact, but optimize its container for narrow screens
+
+3. CTA area
+
+* stack buttons cleanly on mobile if needed
+* ensure tap targets are comfortable
+* spacing between buttons should feel intentional, not cramped
+
+4. Works section
+
+* make project cards feel strong on mobile
+* preserve artwork visibility and avoid awkward image crops
+* hover-dependent information should still be understandable on touch devices
+* use a mobile-friendly interaction pattern for project descriptions where needed
+
+5. About / Experience / Abilities
+
+* reduce wasted space
+* tighten padding and gaps
+* make the text blocks easier to scan vertically
+* ensure pills/tags wrap cleanly without looking messy
+
+6. Footer
+
+* reduce the email size on mobile
+* keep it readable and important, but not overwhelming
+* make the closing section feel balanced and clean
+
+Technical checks:
+
+* audit all typography with proper responsive scaling (prefer clamp where useful)
+* audit all section padding/margins on small screens
+* remove any horizontal overflow at the page level
+* check widths, min-widths, tracking, and long-word behavior
+* make sure the layout works well around 320px–430px widths
+
+Important:
+Do not redesign the site.
+Do not remove the premium dark cinematic identity.
+This is a responsive refinement pass only.
+
+Goal:
+The mobile version should feel intentionally designed, premium, readable, and recruiter-friendly — not like a compressed desktop page.

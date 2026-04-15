@@ -1,0 +1,100 @@
+Refine the portfolio visually again, but this time address an important overall concern:
+
+The site currently looks strong, premium, and professional, but it is starting to feel a bit too severe, too rigid, and slightly too cold. I do NOT want to lose the dark cinematic identity, but I want the site to feel a little more human, atmospheric, and artist-driven — not just hard, strict, and hyper-controlled.
+
+Important clarification:
+Do not redesign the site from scratch.
+Do not make it playful, childish, colorful, soft-corporate, rounded, or generic.
+Do not turn it into a bubbly friendly portfolio.
+Do not remove the premium dark mood.
+The goal is NOT to soften it into something weak.
+The goal is to keep it premium and serious, while reducing the overly harsh / overly mechanical feeling.
+
+Overall direction:
+Move the visual tone slightly from:
+- severe
+- rigid
+- ultra-controlled
+- agency-like
+- cold technical
+
+toward:
+- atmospheric
+- human
+- artistic
+- premium
+- confident
+- cinematic
+- quietly expressive
+
+Key concern to solve:
+Right now the site can feel a bit too “commanding” and not enough “alive”.
+It should feel like the portfolio of an environment artist with taste, atmosphere, and sensitivity — not only discipline and structure.
+
+VISUAL CHANGES TO EXPLORE
+
+1. Reduce the overall harshness slightly
+- Keep the dark palette and strong contrast
+- But reduce the “hard black + hard white + hard red everywhere” feeling
+- Make the site feel a little more lived-in and less mechanically sharp
+
+2. Color tuning
+- Keep the red accent, but make it slightly richer, warmer, and more elegant
+- Avoid anything too neon or too aggressive
+- Let the red feel like a signature accent, not like an alarm color
+- Consider using a slightly softer off-white instead of pure harsh white in some areas
+
+3. Typography mood
+- Keep the strong display font in major places
+- But reduce the sense that every important element is shouting
+- Let some headings, labels, and UI text breathe more naturally
+- Maintain confidence, but reduce the “graphic brand system” feeling
+- Keep it sharp, but slightly more editorial / atmospheric
+
+4. UI tone
+- Buttons, cards, tags, and section dividers should feel premium and restrained
+- Reduce any remaining “boxed component” or “template UI” energy
+- Make the interface feel less like a site builder and more like a designed portfolio
+- Keep structure, but remove any visual stiffness that feels too synthetic
+
+5. Spacing and rhythm
+- Keep generous negative space
+- But make the page feel less sterile
+- Improve rhythm so sections feel more naturally paced and less mechanically spaced
+- Let the composition breathe in a more intentional, artistic way
+
+6. Section atmosphere
+- Preserve the portfolio-first approach
+- But allow sections to feel a little more alive and a little less diagrammatic
+- Works should still be the strongest section
+- About / Experience / Footer should feel more integrated into the same emotional world, not just structured blocks
+
+7. Motion / interaction tone
+- Keep motion subtle and premium
+- Avoid flashy or gimmicky animation
+- But make the reveals feel smoother, more organic, and less like delayed loading
+- Hover states should feel elegant and atmospheric, not abrupt or overly UI-driven
+
+8. Personality balance
+- The site should still feel serious
+- But not so serious that it becomes distant or impersonal
+- A little bit of personal character is welcome, as long as it feels tasteful and integrated
+- Keep the portfolio mature, but not emotionally flat
+
+What to avoid:
+- playful design
+- cartoon energy
+- over-rounding
+- colorful gradients everywhere
+- startup aesthetics
+- fake “friendly” redesign
+- excessive animation
+- overly decorative flourishes
+- removing the site’s core dark identity
+
+Design goal:
+The final result should feel like a strong, premium, cinematic environment artist portfolio that still has humanity, atmosphere, and artistic warmth inside it.
+It should feel less harsh and less rigid, without becoming soft or generic.
+
+In short:
+Keep the portfolio dark, premium, and confident — but make it feel a little more human, a little more atmospheric, and a little less severe.

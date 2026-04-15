@@ -1,0 +1,140 @@
+Refine the visual system of my portfolio website without rewriting the content and without redesigning the whole site from scratch.
+
+Important:
+Focus only on visual/UI improvements:
+- art direction
+- spacing
+- layout rhythm
+- typography hierarchy
+- color balance
+- UI weight
+- section flow
+Do NOT focus on rewriting text yet. Keep all current sections and the overall identity.
+
+Current intended vibe:
+dark, cinematic, industrial, structured, premium, technical, worldbuilding-focused, serious 3D Environment Artist portfolio
+
+Core direction to preserve:
+- black background
+- subtle grid-based background
+- red / white / black palette
+- bold display typography
+- minimal, sharp, controlled visual language
+
+Main problem to solve:
+The website currently feels strong and stylish, but in some areas it reads more like a graphic identity / creative agency page than a portfolio for a serious 3D Environment Artist.
+Make it feel more portfolio-first and more professional, while keeping the same overall mood.
+
+VISUAL TASKS
+
+1. Typography hierarchy
+- Keep Monument / Monument Extended only for selective display usage.
+- Use it mainly for hero emphasis and section titles.
+- Reduce its use in smaller UI areas such as buttons, nav, labels, tool lists, and smaller metadata.
+- Make the hierarchy more refined:
+  - display font for major section titles only
+  - cleaner supporting font for body/UI
+  - smaller, quieter style for metadata and secondary labels
+- Reduce the feeling that every heading has the same visual weight.
+- Job titles and smaller UI titles should feel more controlled and less like mini hero headlines.
+
+2. Typography refinement
+- Make the site feel less like fashion/agency branding and more like a strong artist portfolio.
+- Reduce excessive tracking where it hurts readability.
+- Ensure section titles, card titles, role titles, and CTA titles do not all feel equally loud.
+- Small UI text should feel functional, not over-designed.
+
+3. Color refinement
+- Keep the red accent, but refine it into a slightly deeper, more premium crimson/red.
+- Avoid a cheap neon gaming-brand red.
+- Reduce the amount of red being used at the same intensity everywhere.
+- Make red feel more intentional and more selective.
+- Preserve strong contrast, but make the palette feel a bit more mature and controlled.
+
+4. Background / grid treatment
+- Keep the grid background.
+- Make it more subtle and less dominant.
+- Lower opacity and push it further into the background.
+- Let it support the composition instead of competing with the content.
+- Remove or reduce any decorative particles/noise that feel unnecessary or AI-generated.
+
+5. Spacing and rhythm
+- Improve vertical rhythm across the whole page.
+- Some areas currently feel empty instead of intentionally spacious.
+- Make spacing feel premium and deliberate, not unfinished.
+- Tighten internal spacing within content blocks.
+- Keep generous section spacing, but create better balance between negative space and actual content density.
+- Make sure large empty areas do not feel dead on wide screens.
+
+6. Layout balance
+- Preserve the left-weighted composition, but improve balance across wide screens.
+- Some sections feel too heavy on the left and too empty on the right.
+- Do not fill everything for the sake of filling it.
+- Instead, create more controlled visual balance and stronger section composition.
+- Make right-side columns feel purposeful, not just placed there to occupy space.
+
+7. Hero section visual balance
+- Keep the hero bold, minimal, and dark.
+- Do not redesign it completely.
+- Improve the composition so the left-side content does not feel too compressed while the right side feels overly empty.
+- Preserve a strong first impression, but reduce the sense that typography alone is carrying the whole hero.
+- Keep the hero premium and quiet-confident rather than flashy.
+
+8. Works section art direction
+- Preserve this section as one of the main visual anchors of the site.
+- Make sure the design system supports the artwork instead of competing with it.
+- Improve spacing and hierarchy around featured work and the grid below it.
+- Make project presentation feel more portfolio-first and less like a stylized content card system.
+
+9. Experience / abilities / toolset section
+- Reduce the template/component feel in this area.
+- Make the right-side panels feel cleaner, less decorative, and more professional.
+- Simplify visual framing where needed.
+- Remove unnecessary UI styling that feels like a generic site builder section.
+- Keep it sharp and organized, but calmer.
+
+10. Buttons and CTA styling
+- Refine buttons so they feel less bulky and less template-like.
+- Reduce heavy border/shadow/sticker-like treatment.
+- Keep them sharp, premium, and minimal.
+- Buttons should feel intentional and high-end, not playful or overly stylized.
+- Make primary and secondary CTAs clearly differentiated by weight.
+
+11. Footer / final section
+- The footer currently feels too much like a second hero.
+- Make it feel more like a mature closing section.
+- Reduce oversized slogan energy.
+- Keep it bold, but calmer and more final.
+- Create a cleaner, more understated ending to the page.
+
+12. Overall repetition cleanup
+- Reduce repeated visual motifs that appear too often:
+  - same red emphasis style everywhere
+  - same heading intensity everywhere
+  - same decorative line treatment everywhere
+  - same boxed/stroked UI treatment everywhere
+- Keep consistency, but introduce better restraint.
+- The page should feel designed, not over-designed.
+
+DESIGN GOAL
+Final result should feel:
+- more refined
+- more mature
+- more premium
+- more portfolio-first
+- more artist-specific
+- more confident
+- less template-like
+- less creative-agency-like
+- less decorative for the sake of decoration
+
+CONSTRAINTS
+- Do not rewrite the copy yet
+- Do not remove the dark cinematic identity
+- Do not make it corporate or generic
+- Do not soften it too much
+- Do not overcomplicate the layout
+- Do not add excessive animation
+- Do not rebuild from zero
+
+Please make targeted visual improvements across the current site and return a cleaner, more balanced, more professional version of the same design language.

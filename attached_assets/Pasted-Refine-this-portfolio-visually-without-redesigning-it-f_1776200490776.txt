@@ -1,0 +1,86 @@
+Refine this portfolio visually without redesigning it from scratch.
+
+Overall direction:
+This should feel like the portfolio of a serious 3D Environment Artist, not a creative agency or generic AI landing page. Keep the current dark, cinematic, industrial, technical mood. The design should support the work, not overpower it.
+
+Keep:
+- black / red / white palette
+- subtle grid background
+- bold premium tone
+- dark, minimal, structured visual language
+- strong featured works section
+
+Improve:
+- typography hierarchy
+- spacing rhythm
+- layout balance on wide screens
+- button styling
+- section composition
+- visual restraint
+- portfolio-first presentation
+
+Typography:
+- Keep Monument only for major display use such as hero emphasis and section titles
+- Reduce Monument usage in nav, buttons, labels, metadata, and smaller UI
+- Make job titles and smaller headings less loud
+- Create clearer hierarchy between section titles, card titles, role titles, and body text
+- Use smaller UI text more functionally and less decoratively
+
+Color:
+- Keep the red accent but make it slightly deeper and more premium
+- Reduce how often the same red emphasis appears
+- Make accent color usage feel more selective and intentional
+
+Background:
+- Keep the grid but make it more subtle
+- Push it further back with lower opacity
+- Reduce or remove unnecessary decorative particles/noise
+
+Spacing and layout:
+- Improve vertical rhythm across sections
+- Make empty space feel intentional, not unfinished
+- Tighten internal spacing inside content blocks
+- Keep generous section spacing but balance it better
+- Improve right-side visual balance in sections that currently feel too left-heavy
+
+Hero:
+- Keep it bold and minimal
+- Do not redesign it completely
+- Improve composition so the left side does not feel too compressed and the right side does not feel too empty
+- Preserve strong first impression but reduce the feeling that typography alone is carrying the section
+
+Works section:
+- Keep this as a major visual anchor
+- Make the design system support the artwork rather than compete with it
+- Improve spacing and hierarchy around featured work and the project grid
+
+Experience / abilities / toolset:
+- Reduce the template-like component feel
+- Simplify framing and decorative styling
+- Make this area feel cleaner, calmer, and more professional
+
+Buttons and CTA:
+- Reduce bulky border/shadow/sticker feel
+- Keep buttons sharp, minimal, and premium
+- Differentiate primary and secondary CTA more clearly
+
+Footer:
+- Make it feel less like a second hero
+- Keep it bold but calmer and more final
+- Create a more mature closing section
+
+Avoid:
+- creative agency feel
+- fashion branding feel
+- generic AI template feel
+- overdesigned UI
+- excessive repetition of the same visual motif
+- loud styling in every section
+
+Do not:
+- rewrite the content
+- remove the dark cinematic identity
+- make it corporate
+- make it generic
+- overcomplicate the layout
+- rebuild the whole page
